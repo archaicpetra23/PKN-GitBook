@@ -6,6 +6,7 @@ site:
       key: section-2
       title: Landing Page
       path: landing-page
+      description: ""
       children:
         - type: space
           key: space-2
