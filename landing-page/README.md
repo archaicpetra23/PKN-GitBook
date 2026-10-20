@@ -1,10 +1,10 @@
 ---
-icon: house
+icon: location-arrow
 cover: .gitbook/assets/bali-pagoda-sunrise-indonesia.jpg
 coverY: -555.0374396135265
 coverHeight: 356
 layout:
-  width: wide
+  width: default
   cover:
     visible: true
     size: full
@@ -47,15 +47,15 @@ agama. Kasus ini bergulir hingga ke persidangan di Pengadilan Negeri Denpasar, d
 Agustus 2026 pelaku dinyatakan bersalah serta divonis 1 tahun penjara beserta hukuman\
 deportasi setelah masa pidananya selesai.
 
-## MEMBERS
+<h2 align="center">MEMBERS</h2>
 
 <table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><p>Viren Chandru Kumar </p><p>2510101021</p></td></tr><tr><td><p>Bijan Lungga Bhasmara </p><p>2510101028</p></td></tr><tr><td><p>Frederic Emmanuel</p><p>2510101002</p></td></tr><tr><td><p>Razan Rafi Akmaluzzuhair</p><p>2510101014</p></td></tr><tr><td><p>Inas Tsabitah Dien</p><p>2510101005</p></td></tr><tr><td><p>Shantita Prometta</p><p>2510101020</p></td></tr></tbody></table>
 
-## PODCAST &#x20;
+<h2 align="center">PODCAST  </h2>
 
 {% embed url="https://youtu.be/1f7EmE6JZYU" %}
 
-## PROPOSAL
+<h2 align="center">PROPOSAL</h2>
 
 {% embed url="https://docs.google.com/document/d/1DO2FFEI7dV848iIlYXTR4u1SVRTR7PnQh9UrmK1f8BI/edit?usp=sharing" %}
 
