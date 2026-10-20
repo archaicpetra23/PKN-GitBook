@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Sunyi Yang Di Usik](README.md)
+* [SUNYI YANG DI USIK](README.md)
