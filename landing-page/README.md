@@ -1,7 +1,14 @@
 ---
 icon: house
+cover: .gitbook/assets/bali-pagoda-sunrise-indonesia.jpg
+coverY: -555.0374396135265
+coverHeight: 356
 layout:
   width: wide
+  cover:
+    visible: true
+    size: full
+    mask: none
   title:
     visible: true
   description:
