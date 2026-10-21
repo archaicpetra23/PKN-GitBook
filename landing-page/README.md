@@ -1,5 +1,5 @@
 ---
-icon: location-arrow
+icon: user-crown
 cover: .gitbook/assets/bali-pagoda-sunrise-indonesia.jpg
 coverY: -555.0374396135265
 coverHeight: 356
