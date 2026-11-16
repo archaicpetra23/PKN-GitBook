@@ -1,5 +1,4 @@
 ---
-icon: user-crown
 cover: .gitbook/assets/bali-pagoda-sunrise-indonesia.jpg
 coverY: -555.0374396135265
 coverHeight: 356
@@ -53,7 +52,7 @@ deportasi setelah masa pidananya selesai.
 
 <h2 align="center">PODCAST  </h2>
 
-{% embed url="https://youtu.be/O-R9jd0KgrE" %}
+{% embed url="https://www.youtube.com/watch?v=O-R9jd0KgrE" %}
 
 ### Latar Belakang Narasumber
 
