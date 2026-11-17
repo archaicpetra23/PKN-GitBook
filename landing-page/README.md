@@ -30,7 +30,7 @@ layout:
 
 # SUNYI YANG DI USIK
 
-&#x20;Hari Raya Nyepi merupakan momen paling sakral bagi umat Hindu di Bali. Selama 24 jam,\
+Hari Raya Nyepi merupakan momen paling sakral bagi umat Hindu di Bali. Selama 24 jam,\
 seluruh pulau memberlakukan Catur Brata Penyepian termasuk Amati Geni (tidak menyalakan\
 api/cahaya), Amati Karya (tidak bekerja), Amati Lelungan (tidak bepergian), dan Amati\
 Lelanguan (tidak berfoya-foya) sebagai wujud refleksi diri dalam keheningan total. Ketentuan\
@@ -54,7 +54,9 @@ deportasi setelah masa pidananya selesai.
 
 {% embed url="https://www.youtube.com/watch?v=O-R9jd0KgrE" %}
 
-### Latar Belakang Narasumber
+<h2 align="center">VIDIOGRAFIS</h2>
+
+{% embed url="https://www.youtube.com/watch?v=RgIyE1NLkUI" %}
 
 <h2 align="center">PROPOSAL</h2>
 
